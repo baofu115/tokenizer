@@ -15,11 +15,11 @@ package pretrained
 import (
 	"fmt"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/decoder"
-	"github.com/sugarme/tokenizer/normalizer"
-	"github.com/sugarme/tokenizer/pretokenizer"
-	"github.com/sugarme/tokenizer/util"
+	"github.com/baofu115/tokenizer"
+	"github.com/baofu115/tokenizer/decoder"
+	"github.com/baofu115/tokenizer/normalizer"
+	"github.com/baofu115/tokenizer/pretokenizer"
+	"github.com/baofu115/tokenizer/util"
 )
 
 func CreateDecoder(config map[string]interface{}) (tokenizer.Decoder, error) {

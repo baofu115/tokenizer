@@ -7,8 +7,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/sugarme/tokenizer/util"
-	slice "github.com/sugarme/tokenizer/util/slice"
+	"github.com/baofu115/tokenizer/util"
+	slice "github.com/baofu115/tokenizer/util/slice"
 
 	"golang.org/x/text/unicode/norm"
 )

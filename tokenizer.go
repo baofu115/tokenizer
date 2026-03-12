@@ -18,8 +18,8 @@ import (
 
 	// "golang.org/x/sync/errgroup"
 
-	"github.com/sugarme/tokenizer/normalizer"
-	"github.com/sugarme/tokenizer/util"
+	"github.com/baofu115/tokenizer/normalizer"
+	"github.com/baofu115/tokenizer/util"
 )
 
 const (

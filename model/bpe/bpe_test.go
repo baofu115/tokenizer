@@ -11,9 +11,9 @@ import (
 	// "strings"
 	"testing"
 
-	"github.com/sugarme/tokenizer"
-	bpe "github.com/sugarme/tokenizer/model/bpe"
-	"github.com/sugarme/tokenizer/util"
+	"github.com/baofu115/tokenizer"
+	bpe "github.com/baofu115/tokenizer/model/bpe"
+	"github.com/baofu115/tokenizer/util"
 )
 
 func TestBPE_FromFiles(t *testing.T) {

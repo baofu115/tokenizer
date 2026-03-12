@@ -7,8 +7,8 @@ import (
 	"sort"
 	"unicode"
 
+	"github.com/baofu115/tokenizer/normalizer"
 	"github.com/sugarme/regexpset"
-	"github.com/sugarme/tokenizer/normalizer"
 )
 
 // AddedToken represents a token added by the user on top of the

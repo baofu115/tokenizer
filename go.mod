@@ -1,4 +1,4 @@
-module github.com/sugarme/tokenizer
+module github.com/baofu115/tokenizer
 
 go 1.23.0
 

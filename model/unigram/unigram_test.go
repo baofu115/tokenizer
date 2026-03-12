@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sugarme/tokenizer/util"
+	"github.com/baofu115/tokenizer/util"
 )
 
 // Test cases ported from Rust implementation:

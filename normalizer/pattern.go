@@ -5,7 +5,7 @@ import (
 	// "reflect"
 	"regexp"
 
-	"github.com/sugarme/tokenizer/util"
+	"github.com/baofu115/tokenizer/util"
 )
 
 // Pattern is used to split a NormalizedString

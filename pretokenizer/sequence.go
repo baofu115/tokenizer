@@ -1,7 +1,7 @@
 package pretokenizer
 
 import (
-	"github.com/sugarme/tokenizer"
+	"github.com/baofu115/tokenizer"
 )
 
 type Sequence struct {

@@ -11,7 +11,7 @@ import (
 	// "golang.org/x/text/transform"
 	// "golang.org/x/text/unicode/norm"
 
-	"github.com/sugarme/tokenizer/normalizer"
+	"github.com/baofu115/tokenizer/normalizer"
 	// "github.com/sugarme/tokenizer/util"
 )
 

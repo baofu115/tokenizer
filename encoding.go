@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sugarme/tokenizer/util"
+	"github.com/baofu115/tokenizer/util"
 )
 
 type PaddingDirection int

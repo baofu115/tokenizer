@@ -4,8 +4,8 @@ import (
 	// "log"
 	"strings"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/normalizer"
+	"github.com/baofu115/tokenizer"
+	"github.com/baofu115/tokenizer/normalizer"
 )
 
 // PrependScheme defines how the meta character should be prepended

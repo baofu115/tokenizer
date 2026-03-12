@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sugarme/tokenizer/util"
+	"github.com/baofu115/tokenizer/util"
 )
 
 func TestCreateBPE(t *testing.T) {

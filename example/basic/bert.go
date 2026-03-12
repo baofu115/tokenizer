@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/decoder"
-	"github.com/sugarme/tokenizer/model/wordpiece"
-	"github.com/sugarme/tokenizer/normalizer"
-	"github.com/sugarme/tokenizer/pretokenizer"
-	"github.com/sugarme/tokenizer/processor"
-	"github.com/sugarme/tokenizer/util"
+	"github.com/baofu115/tokenizer"
+	"github.com/baofu115/tokenizer/decoder"
+	"github.com/baofu115/tokenizer/model/wordpiece"
+	"github.com/baofu115/tokenizer/normalizer"
+	"github.com/baofu115/tokenizer/pretokenizer"
+	"github.com/baofu115/tokenizer/processor"
+	"github.com/baofu115/tokenizer/util"
 )
 
 func runBERT() {
